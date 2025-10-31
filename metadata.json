@@ -1,0 +1,5 @@
+{
+  "name": "Green Grocerers Inventory System",
+  "description": "An intelligent inventory management and ordering system for grocery store managers, featuring AI-powered order recommendations to optimize stock levels and reduce spoilage.",
+  "requestFramePermissions": []
+}
